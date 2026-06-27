@@ -273,6 +273,12 @@ def get_result(task_id):
     else:
         return jsonify({'status': task['status']}), 202
 import os
+@app.route('/')
+def home():
+    return jsonify({
+        "status": "API is running",
+        "message": "Diabetic Retinopathy Backend is live"
+    })
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
