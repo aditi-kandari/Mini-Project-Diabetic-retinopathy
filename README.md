@@ -95,16 +95,3 @@ This project is a **Diabetic Retinopathy Detection System** that uses a **Convol
 - Host the application on a cloud platform for wider accessibility.  
 
 ---
-
-## 🤝 **Contributing**
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
----
-
-## 🤝 **Contributing**
-Credits goes to the A deep convolutional neural network for diabetic retinopathy detection via mining local and long‐range dependence
-Xiaoling Luo1, Wei Wang1, Yong Xu, Zhihui Lai3, Xiaopeng Jin4, Bob Zhang5, David Zhang for the reasearch work
---- 
-
-## 📬 **Contact**
-For questions or suggestions, feel free to reach out via GitHub issues or email.  
