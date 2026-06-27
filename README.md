@@ -104,12 +104,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## 🤝 **Contributing**
 Credits goes to the A deep convolutional neural network for diabetic retinopathy detection via mining local and long‐range dependence
 Xiaoling Luo1, Wei Wang1, Yong Xu, Zhihui Lai3, Xiaopeng Jin4, Bob Zhang5, David Zhang for the reasearch work
-
----
-
-## 📜 **License**
-This project is licensed under the MIT License. See `LICENSE` for more details.  
-
 --- 
 
 ## 📬 **Contact**
