@@ -272,6 +272,8 @@ def get_result(task_id):
         return jsonify({'error': task['error']}), 500
     else:
         return jsonify({'status': task['status']}), 202
+import os
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)
